@@ -29,6 +29,7 @@
   ],
   "dependencies": {
     "@modern-js/runtime": "2.4.0",
+    "@modern-js/builder-rspack-provider": "2.4.0",
     "react": "~18.2.0",
     "react-dom": "~18.2.0"
   },
